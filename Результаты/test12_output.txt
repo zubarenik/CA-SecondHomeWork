@@ -1,0 +1,38 @@
+
+ Container's size - 16 
+1: Tetrahedron, edge - 54, density - 0.147311 
+2: Sphere, radius - 353, density - 0.124276 
+3: Parallelepiped, first edge - 444, second edge - 34, third edge - 2, density - 1.153000 
+4: Parallelepiped, first edge - 42, second edge - 22, third edge - 52420, density - 0.153690 
+5: Parallelepiped, first edge - 30, second edge - 3, third edge - 23, density - 0.785000 
+6: Parallelepiped, first edge - 35, second edge - 48, third edge - 2, density - 100.331001 
+7: Sphere, radius - 32, density - 0.419500 
+8: Tetrahedron, edge - 15, density - 3.096561 
+9: Tetrahedron, edge - 54, density - 0.147311 
+10: Sphere, radius - 100, density - 45.124275 
+11: Parallelepiped, first edge - 44, second edge - 120, third edge - 244, density - 1000.252991 
+12: Parallelepiped, first edge - 42, second edge - 22, third edge - 50, density - 0.153690 
+13: Tetrahedron, edge - 200, density - 3.667100 
+14: Tetrahedron, edge - 47, density - 0.151336 
+15: Parallelepiped, first edge - 30, second edge - 3, third edge - 42, density - 3.785000 
+16: Parallelepiped, first edge - 35, second edge - 0, third edge - 0, density - 3.330710 
+
+ After shaker sort... 
+
+ Container's size - 16 
+1: Sphere, radius - 353, density - 0.124276 
+2: Parallelepiped, first edge - 42, second edge - 22, third edge - 52420, density - 0.153690 
+3: Sphere, radius - 100, density - 45.124275 
+4: Parallelepiped, first edge - 44, second edge - 120, third edge - 244, density - 1000.252991 
+5: Tetrahedron, edge - 200, density - 3.667100 
+6: Sphere, radius - 32, density - 0.419500 
+7: Parallelepiped, first edge - 42, second edge - 22, third edge - 50, density - 0.153690 
+8: Parallelepiped, first edge - 444, second edge - 34, third edge - 2, density - 1.153000 
+9: Tetrahedron, edge - 54, density - 0.147311 
+10: Tetrahedron, edge - 54, density - 0.147311 
+11: Tetrahedron, edge - 47, density - 0.151336 
+12: Parallelepiped, first edge - 30, second edge - 3, third edge - 42, density - 3.785000 
+13: Parallelepiped, first edge - 35, second edge - 48, third edge - 2, density - 100.331001 
+14: Parallelepiped, first edge - 30, second edge - 3, third edge - 23, density - 0.785000 
+15: Tetrahedron, edge - 15, density - 3.096561 
+16: Parallelepiped, first edge - 35, second edge - 0, third edge - 0, density - 3.330710 

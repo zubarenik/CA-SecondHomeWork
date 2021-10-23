@@ -1,0 +1,86 @@
+
+ Container's size - 40 
+1: Parallelepiped, first edge - 7266, second edge - 858, third edge - 5704, density - 0.058603 
+2: Tetrahedron, edge - 4553, density - 0.113666 
+3: Sphere, radius - 1704, density - 0.706030 
+4: Sphere, radius - 6847, density - 0.727926 
+5: Tetrahedron, edge - 2106, density - 0.964592 
+6: Sphere, radius - 8933, density - 0.088025 
+7: Tetrahedron, edge - 4967, density - 0.571903 
+8: Sphere, radius - 3853, density - 0.275633 
+9: Sphere, radius - 4124, density - 0.239825 
+10: Tetrahedron, edge - 2047, density - 0.416786 
+11: Parallelepiped, first edge - 9257, second edge - 6801, third edge - 529, density - 0.352813 
+12: Sphere, radius - 5391, density - 0.810550 
+13: Tetrahedron, edge - 1014, density - 0.345996 
+14: Parallelepiped, first edge - 2924, second edge - 3948, third edge - 8360, density - 0.330095 
+15: Tetrahedron, edge - 3644, density - 0.195701 
+16: Tetrahedron, edge - 4962, density - 0.767604 
+17: Sphere, radius - 5167, density - 0.043237 
+18: Parallelepiped, first edge - 9290, second edge - 3195, third edge - 5669, density - 0.283062 
+19: Sphere, radius - 468, density - 0.618616 
+20: Parallelepiped, first edge - 7348, second edge - 6724, third edge - 5148, density - 0.912457 
+21: Parallelepiped, first edge - 907, second edge - 104, third edge - 9117, density - 0.867160 
+22: Tetrahedron, edge - 3065, density - 0.698640 
+23: Tetrahedron, edge - 7957, density - 0.474663 
+24: Parallelepiped, first edge - 8596, second edge - 6829, third edge - 2497, density - 0.239784 
+25: Parallelepiped, first edge - 4301, second edge - 8475, third edge - 7637, density - 0.249604 
+26: Parallelepiped, first edge - 5325, second edge - 4491, third edge - 962, density - 0.107374 
+27: Tetrahedron, edge - 4661, density - 0.821435 
+28: Tetrahedron, edge - 7399, density - 0.544443 
+29: Parallelepiped, first edge - 7502, second edge - 2055, third edge - 7852, density - 0.613447 
+30: Parallelepiped, first edge - 9723, second edge - 4881, third edge - 9428, density - 0.104540 
+31: Sphere, radius - 8023, density - 0.984306 
+32: Parallelepiped, first edge - 8363, second edge - 6765, third edge - 9602, density - 0.456150 
+33: Sphere, radius - 3449, density - 0.736673 
+34: Sphere, radius - 7939, density - 0.651010 
+35: Tetrahedron, edge - 6224, density - 0.308222 
+36: Sphere, radius - 9656, density - 0.417435 
+37: Tetrahedron, edge - 346, density - 0.393809 
+38: Parallelepiped, first edge - 8197, second edge - 139, third edge - 9208, density - 0.380428 
+39: Sphere, radius - 4987, density - 0.379190 
+40: Parallelepiped, first edge - 9361, second edge - 6983, third edge - 3123, density - 0.363496 
+
+ After shaker sort... 
+
+ Container's size - 40 
+1: Sphere, radius - 9656, density - 0.417435 
+2: Sphere, radius - 8933, density - 0.088025 
+3: Sphere, radius - 8023, density - 0.984306 
+4: Sphere, radius - 7939, density - 0.651010 
+5: Sphere, radius - 6847, density - 0.727926 
+6: Sphere, radius - 5391, density - 0.810550 
+7: Sphere, radius - 5167, density - 0.043237 
+8: Sphere, radius - 4987, density - 0.379190 
+9: Sphere, radius - 4124, density - 0.239825 
+10: Sphere, radius - 3853, density - 0.275633 
+11: Sphere, radius - 3449, density - 0.736673 
+12: Tetrahedron, edge - 7957, density - 0.474663 
+13: Tetrahedron, edge - 7399, density - 0.544443 
+14: Tetrahedron, edge - 6224, density - 0.308222 
+15: Sphere, radius - 1704, density - 0.706030 
+16: Tetrahedron, edge - 4967, density - 0.571903 
+17: Tetrahedron, edge - 4962, density - 0.767604 
+18: Tetrahedron, edge - 4661, density - 0.821435 
+19: Tetrahedron, edge - 4553, density - 0.113666 
+20: Tetrahedron, edge - 3644, density - 0.195701 
+21: Tetrahedron, edge - 3065, density - 0.698640 
+22: Parallelepiped, first edge - 8363, second edge - 6765, third edge - 9602, density - 0.456150 
+23: Parallelepiped, first edge - 2924, second edge - 3948, third edge - 8360, density - 0.330095 
+24: Parallelepiped, first edge - 8197, second edge - 139, third edge - 9208, density - 0.380428 
+25: Parallelepiped, first edge - 5325, second edge - 4491, third edge - 962, density - 0.107374 
+26: Parallelepiped, first edge - 7266, second edge - 858, third edge - 5704, density - 0.058603 
+27: Tetrahedron, edge - 2106, density - 0.964592 
+28: Tetrahedron, edge - 2047, density - 0.416786 
+29: Parallelepiped, first edge - 7348, second edge - 6724, third edge - 5148, density - 0.912457 
+30: Parallelepiped, first edge - 907, second edge - 104, third edge - 9117, density - 0.867160 
+31: Parallelepiped, first edge - 7502, second edge - 2055, third edge - 7852, density - 0.613447 
+32: Parallelepiped, first edge - 9290, second edge - 3195, third edge - 5669, density - 0.283062 
+33: Parallelepiped, first edge - 9723, second edge - 4881, third edge - 9428, density - 0.104540 
+34: Parallelepiped, first edge - 8596, second edge - 6829, third edge - 2497, density - 0.239784 
+35: Sphere, radius - 468, density - 0.618616 
+36: Tetrahedron, edge - 1014, density - 0.345996 
+37: Tetrahedron, edge - 346, density - 0.393809 
+38: Parallelepiped, first edge - 4301, second edge - 8475, third edge - 7637, density - 0.249604 
+39: Parallelepiped, first edge - 9257, second edge - 6801, third edge - 529, density - 0.352813 
+40: Parallelepiped, first edge - 9361, second edge - 6983, third edge - 3123, density - 0.363496 

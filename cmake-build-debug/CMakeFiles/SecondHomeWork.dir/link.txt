@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SecondHomeWork.dir/main.cpp.o CMakeFiles/SecondHomeWork.dir/container.cpp.o CMakeFiles/SecondHomeWork.dir/figure.cpp.o CMakeFiles/SecondHomeWork.dir/sphere.cpp.o CMakeFiles/SecondHomeWork.dir/random.cpp.o CMakeFiles/SecondHomeWork.dir/parallelepiped.cpp.o CMakeFiles/SecondHomeWork.dir/tetrahedron.cpp.o -o SecondHomeWork 
